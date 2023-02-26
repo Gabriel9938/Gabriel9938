@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gabriel9938
-- 👀 I’m interested in IoT, Software Development and Cloud Computing
+- 👀 I’m interested in IoT, Software Development and Web App Development
 - 🌱 I’m currently learning React and Python GUI(pyside6 & QT)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gbkong98@gmail.com
